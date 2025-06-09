@@ -9,7 +9,7 @@ entries:
     name: payments
     type: application
     urls:
-    - https://subratojec.github.io/Helm-charts-practice/payments-0.1.0.tgz
+    - https://subratojec.github.io/helm-chart-practice/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: shipping
     type: application
     urls:
-    - https://subratojec.github.io/Helm-charts-practice/shipping-0.1.0.tgz
+    - https://subratojec.github.io/helm-chart-practice/shipping-0.1.0.tgz
     version: 0.1.0
 generated: "2025-06-09T21:23:32.996630952+05:30"
